@@ -1,4 +1,4 @@
-package com.nt.test;
+package com.nt.array;
 
 public class TenRightShift {
 
